@@ -4,7 +4,71 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html, header, nav, ul, aside, h1, h2, section, p, ol, form, select	/Users/appacademy/Desktop/W3D3/skeleton/assets/css_reset.css	/^html, header, nav, ul, aside, h1, h2, section, p, ol, form, select,$/;"	function	line:3
-label, input, option, footer	/Users/appacademy/Desktop/W3D3/skeleton/assets/css_reset.css	/^ label, input, option, footer {$/;"	function	line:4
-body	/Users/appacademy/Desktop/W3D3/skeleton/assets/css_reset.css	/^ body {$/;"	function	line:14
-img	/Users/appacademy/Desktop/W3D3/skeleton/assets/css_reset.css	/^ img {$/;"	function	line:22
+html	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^<html>$/;"	function	line:2
+head	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^<head>$/;"	function	line:3
+title	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <title>Kevin McCall Simple Shakshukah Recipe<\/title>$/;"	function	line:4
+meta	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <meta name="description" content="The best, simple recipe for delicious Middle Eastern Shakshuka, a cumin spiced tomato sauce with sautéd onions and chili peppers topped with poached eggs. ">$/;"	function	line:5
+meta	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <meta charset="utf-8">$/;"	function	line:6
+link	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <link rel="stylesheet" href=".\/assets\/css_reset.css" type="text\/css"\/>$/;"	function	line:7
+link	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <link rel="stylesheet" href=".\/assets\/advanced_selectors.css" type="text\/css"\/>$/;"	function	line:8
+script	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <script src=".\/assets\/external_javascript_example.js" type="text\/javascript"><\/script>$/;"	function	line:9
+script	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <script>$/;"	function	line:10
+body	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^<body>$/;"	function	line:21
+header	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <header>$/;"	function	line:22
+img	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <img src=".\/assets\/appacademylogo.png" alt="App Academy Logo">$/;"	function	line:23
+nav	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <nav>$/;"	function	line:24
+ul	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <ul>$/;"	function	line:25
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <li><a href="#description">Description<\/a><\/li>$/;"	function	line:26
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <li><a href="#ingredients">Ingredients<\/a><\/li>$/;"	function	line:27
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <li><a href="#directions">Directions<\/a><\/li>$/;"	function	line:28
+aside	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <aside>$/;"	function	line:33
+h	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <h2 id="ingredients">Ingredients<\/h2>$/;"	function	line:34
+ul	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <ul class="ingredients-list">$/;"	function	line:36
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>1 tbsp olive oil<\/li>$/;"	function	line:37
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>1\/2 medium brown or white onion, peeled and diced<\/li>$/;"	function	line:38
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>1 clove garlic, minced<\/li>$/;"	function	line:39
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>1 medium green or red bell pepper, chopped<\/li>$/;"	function	line:40
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>4 cups ripe diced tomatoes, or 2 cans (14 oz. each) diced tomatoes<\/li>$/;"	function	line:41
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>2 tbsp tomato paste<\/li>$/;"	function	line:42
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>1 tsp chili powder (mild)<\/li>$/;"	function	line:43
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>1 tsp cumin<\/li>$/;"	function	line:44
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>1 tsp paprika<\/li>$/;"	function	line:45
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>Pinch of cayenne pepper (or more to taste-- spicy!)<\/li>$/;"	function	line:46
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>Pinch of sugar (optional, to taste)<\/li>$/;"	function	line:47
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>Salt and pepper to taste<\/li>$/;"	function	line:48
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>5-6 eggs<\/li>$/;"	function	line:49
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>1\/2 tbsp fresh chopped parsley (optional, for garnish)<\/li>$/;"	function	line:50
+section	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <section>$/;"	function	line:54
+h	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <h1>Shakshukah<\/h1>$/;"	function	line:55
+figure	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <figure>$/;"	function	line:57
+figcaption	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <figcaption>$/;"	function	line:60
+a	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <a href="https:\/\/en.wikipedia.org\/wiki\/Shakshouka">The history of Shakshukah<\/a>$/;"	function	line:61
+h	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <h2 id="description">Description<\/h2>$/;"	function	line:66
+p	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <p>$/;"	function	line:67
+h	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <h2 id="directions">Directions<\/h2>$/;"	function	line:71
+ol	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <ol>$/;"	function	line:72
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>$/;"	function	line:73
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>$/;"	function	line:76
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>$/;"	function	line:79
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>$/;"	function	line:82
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>$/;"	function	line:85
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>$/;"	function	line:88
+li	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <li>$/;"	function	line:91
+section	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <section id="reviews">$/;"	function	line:97
+h	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <h2>Reviews<\/h2>$/;"	function	line:98
+form	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^      <form id="review-form" action="\/reviews" method="post">$/;"	function	line:99
+label	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <label for="name">Name<\/label>$/;"	function	line:100
+input	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <input id="name" type="text" name="name">$/;"	function	line:101
+label	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <label for="rating">Rating<\/label>$/;"	function	line:103
+label	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <label for="expertise">Cooking Expertise<\/label>$/;"	function	line:110
+select	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <select id="expertise" name="expertise">$/;"	function	line:112
+option	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^          <option value="Select Cooking Expertise" disabled="true" selected="true">Select Cooking Experise<\/option>$/;"	function	line:113
+option	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^          <option value="Sometimes Cook">Sometimes Cook<\/option>$/;"	function	line:115
+option	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^          <option value="Cook Everyday">Cook Everyday<\/option>$/;"	function	line:117
+option	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^          <option value="Cooking is a Hobby">Cooking is a Hobby<\/option>$/;"	function	line:119
+option	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^          <option value="Professional Chef">Professional Chef<\/option>$/;"	function	line:121
+label	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <label>Review$/;"	function	line:124
+textarea	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^          <textarea id="review" name="review" cols="30" rows="10"><\/textarea>$/;"	function	line:125
+input	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <input type="submit" value="Submit Review">$/;"	function	line:128
+footer	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <footer>$/;"	function	line:132
+p	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <p>Original Recipe by <a href="http:\/\/toriavey.com\/toris-kitchen\/2010\/07\/summer-2010-travel-blog-shakshuka">Tori Avey<\/a><\/p>$/;"	function	line:133
