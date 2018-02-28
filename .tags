@@ -1,0 +1,4 @@
+html, header, nav, ul, aside, h1, h2, section, p, ol, form, select	/Users/appacademy/Desktop/W3D3/skeleton/assets/css_reset.css	/^html, header, nav, ul, aside, h1, h2, section, p, ol, form, select,$/;"	function	line:3
+label, input, option, footer	/Users/appacademy/Desktop/W3D3/skeleton/assets/css_reset.css	/^ label, input, option, footer {$/;"	function	line:4
+body	/Users/appacademy/Desktop/W3D3/skeleton/assets/css_reset.css	/^ body {$/;"	function	line:14
+img	/Users/appacademy/Desktop/W3D3/skeleton/assets/css_reset.css	/^ img {$/;"	function	line:22

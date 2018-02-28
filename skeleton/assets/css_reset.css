@@ -1,0 +1,24 @@
+
+
+html, header, nav, ul, aside, h1, h2, section, p, ol, form, select,
+ label, input, option, footer {
+   margin: inherit;
+   padding: inherit;
+   border: inherit;
+
+   font-size: 100%;
+   font: inherit;
+   vertical-align: baseline;
+ }
+
+ body {
+   margin: 0;
+   padding: 0;
+   border: 0;
+
+   line-height: 1.5;
+ }
+
+ img {
+   width: 100%;
+  }
