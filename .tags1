@@ -4,4 +4,4 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-Enrollment	/Users/appacademy/Desktop/W3D3/associations_exercise/app/models/enrollment.rb	/^class Enrollment < ApplicationRecord$/;"	class	line:1
+User	/Users/appacademy/Desktop/W3D3/associations_exercise/app/models/user.rb	/^class User < ApplicationRecord$/;"	class	line:1

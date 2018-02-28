@@ -71,3 +71,4 @@ input	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^        <input type
 footer	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^  <footer>$/;"	function	line:132
 p	/Users/appacademy/Desktop/W3D3/skeleton/example.html	/^    <p>Original Recipe by <a href="http:\/\/toriavey.com\/toris-kitchen\/2010\/07\/summer-2010-travel-blog-shakshuka">Tori Avey<\/a><\/p>$/;"	function	line:133
 Enrollment	/Users/appacademy/Desktop/W3D3/associations_exercise/app/models/enrollment.rb	/^class Enrollment < ApplicationRecord$/;"	class	line:1
+User	/Users/appacademy/Desktop/W3D3/associations_exercise/app/models/user.rb	/^class User < ApplicationRecord$/;"	class	line:1
